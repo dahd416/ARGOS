@@ -1,0 +1,16 @@
+git config --global user.name "dahd416"
+
+git config --global user.email dahd416@gmail.com
+
+$ git add .  Agarrar todos los cambios que hubieron en el repositorio y mandarlo a una lista de espera. El punto dice que lo agarra a todos dentro de ese repositorio.
+
+$ git commit -am  “add Agregar modelo de sensores”
+
+add - Cuando agregas algo nuevo ()
+feat - Cuando agregas algo nuevo en tu código o ensamble
+fix - Cuando solucionas algo que estaba mal
+delete -
+
+git commit --amend -m "New commit message."
+
+$ git commit --amend -m "add(archivo): Modelo de sensores de presion"
